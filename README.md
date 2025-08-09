@@ -116,3 +116,13 @@ pg_dump -U <username> -d <dbname> -f blogging_backup.sql
 ```
 
 ---
+
+## Project Demo
+
+<img width="1771" height="867" alt="5" src="https://github.com/user-attachments/assets/82558452-0c21-49f5-be22-ef5f223b8f30" />
+<img width="1380" height="794" alt="2" src="https://github.com/user-attachments/assets/e1b474e8-3c7e-42b4-94a0-728ad9c84f2f" />
+<img width="1376" height="760" alt="3" src="https://github.com/user-attachments/assets/ab445acb-c8ab-4b80-9e17-fbac54ccae7e" />
+<img width="1360" height="727" alt="5" src="https://github.com/user-attachments/assets/ef689b85-a3df-40ba-ba49-c03a358b3f5a" />
+<img width="1367" height="824" alt="6" src="https://github.com/user-attachments/assets/4eb4cb0a-33b3-4c0a-9db0-bbef58023874" />
+<img width="1368" height="730" alt="7" src="https://github.com/user-attachments/assets/88dca760-19d4-4df8-b107-d29b84017c14" />
+<img width="1358" height="716" alt="8" src="https://github.com/user-attachments/assets/fa5c5e7e-f59c-4f6c-b776-cd65f7b5ac68" />
